@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Aplikasi-To-Do-List-Berbasis-CLI
-=======
+
 # 📝 To-Do List Application
 
 Aplikasi sederhana untuk mencatat, mengubah, dan menghapus tugas sehari-hari. Cocok untuk mahasiswa baru belajar Python.
